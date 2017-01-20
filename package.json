@@ -1,0 +1,60 @@
+{
+  "name": "wine-auction-manager",
+  "version": "0.0.1",
+  "description": "Software to generate supplementary materials for an auction",
+  "main": "index.js",
+  "scripts": {
+    "parse:web": "node --harmony scripts/parse-web.js",
+    "test": "mocha test/unit --compilers js:babel-register"
+  },
+  "keywords": [
+    "auction",
+    "generate"
+  ],
+  "author": "Emily McDonnell",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      [
+        "latest"
+      ]
+    ]
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": "airbnb-base",
+    "env": {
+      "browser": true,
+      "node": true,
+      "mocha": true,
+      "es6": true
+    },
+    "rules": {
+      "import/no-extraneous-dependencies": 0
+    }
+  },
+  "dependencies": {
+    "babel-polyfill": "6.16.0",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "pretty-error": "^2.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-latest": "6.16.0",
+    "babel-register": "^6.18.0",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "cheerio": "^0.22.0",
+    "chokidar": "^1.6.1",
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0",
+    "rimraf": "^2.5.4"
+  }
+}

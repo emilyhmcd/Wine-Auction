@@ -1,0 +1,124 @@
+{
+  "1": {
+    "short_desc": "A case of the first twelve years of Opus One"  
+  },
+  "2": {
+    "short_title": "First Growths and The French Laundry",
+    "short_desc": "Dinner for four at The French Laundry and five bottles of exceptional wine from the 1960's",
+    "items": ["$1500 gift certificate for The French Laundry", "Tour of the property and kitchen currently under construction"],
+    "description": [
+      "First Growth French Wine and the French Laundry epitomize the best of the best. You and 3 Guests will be invited to dine at French Laundry, including a tour of the property and kitchen currently under construction. To be paired with your culinary experience you can share and compare the First Growth of the 1960’s.",
+    ],
+    "wines": [
+        {
+          "year": "1960",
+          "desc": "Château Margaux",
+          "rating": null,
+          "size": "750ml",
+          "qty": "1"
+        },
+        {
+          "year": "1960",
+          "desc": "Château Lafite Rothschild",
+          "rating": null,
+          "size": "750ml",
+          "qty": "1"
+        },
+        {
+          "year": "1966",
+          "desc": "Château Latour",
+          "rating": null,
+          "size": "750ml",
+          "qty": "1"
+        },
+        {
+          "year": "1966",
+          "desc": "Haut Brion",
+          "rating": null,
+          "size": "750ml",
+          "qty": "1"
+        },
+        {
+          "year": "1967",
+          "desc": "Mouton Rothschild",
+          "rating": null,
+          "size": "750ml",
+          "qty": "1"
+        }
+    ],
+    "wineCount": 5
+  },
+  "3": {
+    "description": [
+      "From the northernmost wine district in Burgundy many consider Chablis to be the world’s most distinctive Chardonnay. Perfect with oysters or crab, these 12 bottles are not to be missed!"
+    ],
+    "short_desc": "A case of remarkable wine from the region many consider to be the world's most distinctive Chardonnay"
+  },
+  "4": {
+    "description": [
+      "Mauna Lani Bay Hotel & Golf Villas is located on the sunny Kohala Coast on the Big Island of Hawaii. Nestled oceanfront on a sandy beach you’ll discover a myriad of activities to enjoy or you can relax and do nothing at all. On the beach you’ll find swaying hammocks and private cabanas. Explore the historic Kalahuiupua’a fishponds, play a round of golf, venture into the Pacific on a catamaran and then have a soothing treatment at Mauna Lani Spa.",
+      "For the ultimate Hawaiian vacation relax in a private Golf Villa with your own private pool. Beautiful two story, three bedroom, three bath townhouse style condo. Located on the Ninth Tee of the famed Mauna Lani’s South Course. Home to Hole #15, one of the most photographed over-the-water golf course holes in the world. Additionally, the challenging South Course offers golfers a panorama of mountain and ocean views.",
+    ],
+    "short_desc": "Enjoy a week at three bedroom villa on the beach and Ninth Tee of the famed Mauna Lani Bay Hotel & Golf resort",
+    "restrictions": "Offered anytime from May 1st to November 15"
+  },
+  "5": {
+    "short_desc": "An amazing collection of 14 wines in original wood crates from some of California's most exclusive wineries"
+  },
+  "6": {
+    "description": [
+      "A private Seafood BBQ for 40 at a Sonoma Estate. You and 39 friends will spend the day enjoying the best of the Wine Country living at the gorgeous Rolling Oak Estate in Glen Ellen CA. A large playing field with cornhole games, bocce ball and picnic tables will be yours to enjoy for the day as you are treated to a Crabfeed and Oysters all prepared for you without you raising a finger. To wash down all that great food you can bring your own libations or simply plow through the 2 cases of Sauvignon Blanc that your hosts will have waiting for you.",
+    ],
+    "short_desc": "A private seafood BBQ for you and 39 guests at a Sonoma Estate",
+    "items": [
+      "Crabfeed and oysters prepared for 40 people",
+      "Two cases of local Sauvignon Blanc"
+    ],
+    "restrictions": "To occur on a mutually agreed date between Sep ‘16 and June ‘17, with at least 4 weeks notice. No access to the main residence."
+  },
+  "7": {
+    "short_desc": "18 bottle horizontal of Diamond Creek Cabernet Sauvignon in Original Wood Crates" 
+  }, 
+  "8": {
+    "description": [
+      "We would like to invite you and 15 guests to join vintners Cam Baker and Kate Solari Baker along with friends and co-hosts Mark and Mauree Jane Perry for an evening of Art, Food and Wine in the The Lark Room at Larkmead Vineyards. The evening will begin with a tour of the winery and cocktail reception in Kate’s estate art gallery followed by a 5 course tasting menu prepared by special Bay Area chef, Ryan McCarthy. The menu will be expertly paired and served with back vintages of Larkmead wines by our in-house sommelier Dan O’Brien. Both Ryan and Dan have worked in many Michelin rated restaurants together (The Restaurant at Meadowood, Murray Circle at Cavallo Point), so you will be in good hands.",
+    ],
+    "short_desc": "Dinner for you and 15 guests at Larkmead Cellars",
+    "items": [
+      "Hosted evening for 16 at Larkmead Cellars"
+      "Cocktail reception and vineyard tour"
+      "5-course tasting menu with pairings of back vintages of Larkmead wine",
+    ],
+  },
+  "9": {
+    "description": [
+      "Merry Edwards wines are coveted by collectors throughout the world, and this lot invites three couples for a never-before, never-again glimpse into the inner workings of this classic winery. Experience the sights, sounds and tastes of the world-renowned Russian River Valley during a three-day, two-night stay at Merry Edwards’ new guest house in Forestville for up to three (3) couples. Wake up to the delectable aroma of freshly baked bread paired with eggs fresh from Merry’s henhouse and Ken’s We Be Jammin’ homegrown fruit jam. This “slice of heaven” nestled in the midst of Merry Edwards Winery’s youngest estate Sauvignon Blanc vineyard will also be stocked with a fine selection of the 2013 James Beard Award winner’s critically acclaimed wines and freshly pressed olive oil from their 100-year-old trees. Your group will be treated to a VIP tour and tasting at Merry Edwards Winery and given immediate access to the allocation mailing list.",
+      "Also included are three sets of winemaker signed bottles (one set for each couple):"
+    ],
+    "short_desc": "Three days, two nights for three couples at Merry Edwards, with souvenirs!",
+    "items": [
+      "Three days, two nights for three couples at the Merry Edwards guest house",
+      "VIP tour and tasting at Merry Edwards winery",
+      "Immediate access to the mailing list",
+      "Selection of signed bottles for immediate satisfaction"
+    ],
+    "restrictions": "To occur on a mutually agreed between July '16 and July '17, booked 5-6 weeks in advance. Subject to availability."
+  },
+  "10": {
+    "short_title": "Dinner and Library Tasting with Michael Browne",
+    "short_desc": "A unique chance to delve deep into the Kosta Browne library to taste rare wines from some epic vintages",
+    "items": [
+      "Tour and dinner six at Kosta Browne, hosted by Michael Browne"
+    ]
+  },
+  "11": {
+    "short_desc": "An incredible opportunity to make your own wine start to finish.",
+    "items": [
+      "Join the harvest at a private vineyard in Healdsburg"
+      "24 cases (288 bottles) of your own created and labeled wine"
+    ]
+  },
+  "12": {
+    "short_desc": "Please raise your paddle for the kids!"
+  }
+}]
